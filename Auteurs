@@ -1,0 +1,2 @@
+https://api.archives-ouvertes.fr/search/ens/?q=*%3A*&rows=0&wt=json&indent=true&facet=true&facet.field=authFullName_s
+
