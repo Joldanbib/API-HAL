@@ -12,4 +12,4 @@ Pour une intégration Web ?
 
 ## Dépôts dans les collections
 [halcoll_evol_annuel_depots.ipynb](https://github.com/Joldanbib/API-HAL/blob/main/halcoll_evol_annuel_depots.ipynb)
-
+[halcoll_evol_idhal.ipynb](https://github.com/Joldanbib/API-HAL/blob/main/halcoll_evol_idhal.ipynb)
